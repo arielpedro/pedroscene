@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# PedroSCENE
+#
+
+projectname: PedroSCENE
+vendorid: com.mycompany
+mainmodule: com.mycompany.pedroscene
